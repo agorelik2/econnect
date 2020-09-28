@@ -1,0 +1,133 @@
+form.signup,
+form.login {
+  margin-top: 50px;
+}
+body {
+  line-height: 1em;
+  text-align: center;
+  /* font-family: "Noto Sans", sans-serif, "Roboto", sans-serif; */
+  font-family: "Teko", sans-serif;
+  font-size: 1em;
+  /* color: #5f3435; */
+  /* background-color: #5f3435; */
+  /* background-image: url(/images/loginB.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background: -webkit-linear-gradient(to left, #abc234, #25892c);
+  background: linear-gradient(to left, #b58304, #c8d50c);
+}
+
+.card {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+#newEventBtn {
+  color: #fff !important;
+}
+#moreEventBtn {
+  color: #fff !important;
+}
+
+.content-header {
+  font-family: "Oleo Script", cursive;
+  color: #fcc500;
+  font-size: 50px;
+}
+
+.section-content {
+  text-align: center;
+}
+#contact {
+  font-family: "Teko", sans-serif;
+  padding-top: 60px;
+  width: 100%;
+
+  height: 1000px;
+
+  background: -webkit-linear-gradient(to left, #abc234, #25892c);
+  background: linear-gradient(to left, #b58304, #81d50c);
+  color: #fff;
+}
+.contact-section {
+  padding-top: 40px;
+}
+.contact-section .col-md-6 {
+  width: 50%;
+}
+
+.form-line {
+  border-right: 1px solid #b29999;
+}
+
+.form-group {
+  margin-top: 10px;
+}
+label {
+  font-size: 1.8em;
+  line-height: 1em;
+  font-weight: normal;
+}
+.form-control {
+  font-size: 2.4em;
+  color: #080808;
+}
+textarea.form-control {
+  height: 150px;
+}
+
+.submit {
+  font-size: 2.4em;
+  float: right;
+  width: 150px;
+  background-color: transparent;
+  color: #fff;
+  box-shadow: gray;
+}
+
+.submit2 {
+  font-size: 1.75em;
+  float: center;
+  width: 150px;
+  background-color: gold;
+  color: black;
+}
+
+.title {
+  font-size: large;
+  text-align: center;
+}
+
+h2 {
+  font-size: 500px;
+  color: gold;
+  text-align: center;
+  text-shadow: black;
+}
+.card-content {
+  font-family: "Oleo Script", cursive;
+  color: #7e775a;
+  font-size: 50px;
+  text-align: center;
+}
+.card-text {
+  font-family: "Oleo Script", cursive;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+}
+
+.grid-container {
+  font-family: "Times New Roman", Times, serif;
+  color: #7e775a;
+  font-size: 50px;
+  text-align: center;
+}
+
+.invite {
+  text-align: center;
+}
+.comment-color {
+  color: blue;
+}
